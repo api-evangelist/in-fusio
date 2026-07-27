@@ -1,7 +1,32 @@
 aid: in-fusio
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/in-fusio.png
 name: In-Fusio
-description: In-Fusio is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  In-Fusio was a mobile entertainment company founded in 1998 in Bordeaux
+  (Merignac), France, and one of the pioneers of the mobile games industry. In
+  September 2000 it launched ExEn (Execution Engine), the first Java-based game
+  engine dedicated entirely to mobile devices, competing with Sun Microsystems'
+  J2ME, and partnered with Motorola on a client-side mobile gaming API for
+  faster action and richer graphics. The company published games and community
+  services across more than 70 wireless carriers and 140 handsets worldwide,
+  with distribution deals including Verizon, Sprint, AT&T, Vodafone, Orange,
+  Telefonica Moviles and China Mobile. It split its publishing and distribution
+  divisions in January 2006, was acquired by Zenops in May 2007, entered
+  administration in 2008, and went into compulsory liquidation in 2009. In-Fusio
+  is recorded in the API Evangelist network as a historical portfolio company of
+  Insight Partners; it operates no active developer platform or public API
+  today.
 url: https://raw.githubusercontent.com/api-evangelist/in-fusio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +34,40 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: >-
+  Compulsory liquidation in 2009 (acquired by Zenops 2007). No active company,
+  developer portal, or public API. The in-fusio.com domain has since been
+  re-registered and now hosts an unrelated online casino, which is NOT this
+  company and is deliberately not wired as a company property.
+x-founded: '1998'
+x-headquarters: Bordeaux (Merignac), France
+x-defunct: '2009'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Mobile
+- Mobile Games
+- Gaming
+- Entertainment
+- Telecommunications
+- Java
+- Defunct
 apis: []
+common:
+- type: LinkedIn
+  url: https://www.linkedin.com/company/in-fusio
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/in-fusio
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
