@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-In-Fusio is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: insight-partners
+In-Fusio was a mobile entertainment company founded in 1998 in Bordeaux (Merignac), France, and one of the pioneers of the mobile games industry. In September 2000 it launched ExEn (Execution Engine), the first Java-based game engine dedicated entirely to mobile devices, competing with Sun Microsystems' J2ME, and partnered with Motorola on a client-side mobile gaming API for faster action and richer graphics. The company published games and community services across more than 70 wireless carriers and 140 handsets worldwide, with distribution deals including Verizon, Sprint, AT&T, Vodafone, Orange, Telefonica Moviles and China Mobile. It split its publishing and distribution divisions in January 2006, was acquired by Zenops in May 2007, entered administration in 2008, and went into compulsory liquidation in 2009. In-Fusio is recorded in the API Evangelist network as a historical portfolio company of Insight Partners; it operates no active developer platform or public API today.
+
+**Areas:** Company · Mobile · Mobile Games · Gaming · Entertainment · Telecommunications · Java · Defunct
+
+## In-Fusio on APIs.io (historical record)
+
+Everything profiled for In-Fusio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/in-fusio/](https://apis.io/providers/in-fusio/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for In-Fusio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/in-fusio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
